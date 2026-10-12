@@ -2,7 +2,7 @@
 
 A native desktop application for tracking recurring bills, recording payments, and receiving timely reminders. Built with Kotlin, Jetpack Compose Desktop, and SQLite.
 
-**Repository:** [github.com/u1/Bill-Reminder](https://github.com/u1/Bill-Reminder)
+**Repository:** [github.com/nehaharpale/Bill-Reminder](https://github.com/nehaharpale/Bill-Reminder)
 
 ## Overview
 
