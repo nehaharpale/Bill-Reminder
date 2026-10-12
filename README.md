@@ -80,7 +80,7 @@ The project uses the Gradle Wrapper, so a separate Gradle installation is not re
 ### Clone the repository
 
 ```bash
-git clone https://github.com/u1/Bill-Reminder.git
+git clone https://github.com/nehaharpale/Bill-Reminder.git
 cd Bill-Reminder
 ```
 
