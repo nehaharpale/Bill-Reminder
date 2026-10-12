@@ -1,0 +1,40 @@
+# Gradle and build outputs
+.gradle/
+**/build/
+
+# IDE and operating-system files
+.idea/
+.DS_Store
+
+# Local machine configuration
+local.properties
+.env
+.env.*
+!.env.example
+
+# SQLite databases and sidecar files
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.sqlite-wal
+*.sqlite-shm
+*.db-wal
+*.db-shm
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.backup
+
+# Signing certificates, keys, and secrets
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.mobileprovision
+secrets/
+credentials/
